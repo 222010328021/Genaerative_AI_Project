@@ -1,9 +1,9 @@
 # Genaerative_AI_Project
  Creating a clone of ChatGPT using various generative tools like Gradio, OpenAI, Langchain, PlayHT, HuggingFace, and Colab is an interesting idea. Each of these tools brings its own unique capabilities to the table, and combining them can indeed simplify the task and potentially improve the performance of the resulting model.
 
-  Here's how you could utilize these tools to create a simplified version of ChatGPT:
+  Here's how I utilized these tools to create a simplified version of ChatGPT:
 
-HuggingFace's Transformers Library: HuggingFace's Transformers library is a powerful tool for working with various pre-trained language models, including GPT-3.5. You can use this library to fine-tune GPT-3.5 on a specific task or dataset, making it more specialized for your use case.
+HuggingFace's Transformers Library: HuggingFace's Transformers library is a powerful tool for working with various pre-trained language models, including GPT-3.5. I have used this library to fine-tune GPT-3.5 on a specific task or dataset, making it more specialized for my use case.
 
 OpenAI's GPT-3.5: OpenAI's GPT-3.5 model is the backbone of your clone. You can access it using the OpenAI API and integrate it into your system to provide natural language understanding and generation capabilities.
 
